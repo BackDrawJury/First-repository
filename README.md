@@ -1,2 +1,4 @@
 # hello-world
-First basic repository
+
+First commit to the basic repository.
+So, when can I start writing apps?
